@@ -44,10 +44,13 @@ The code is included in this repo.<br><br>
 ![image](https://user-images.githubusercontent.com/98131995/225831350-3035e5d2-bebc-404e-93ca-28e940d0f557.png)<br><br>
 
 ### Q4 - Epsilon Greedy<br>
-<br><br>
+![image](https://user-images.githubusercontent.com/98131995/225831658-98a4d8db-38a4-4e44-b2f6-32497a64a2b4.png)<br><br>
 
 ### Q5 - Q-Learning and Pacman<br>
-<br><br>
+After 10 training sessions:<br>
+![image](https://user-images.githubusercontent.com/98131995/225833590-366f36d2-347e-44dd-a814-ed755c4eb36c.png)<br><br>
+After 2000 training sessions:<br>
+![image](https://user-images.githubusercontent.com/98131995/225833793-96c1a804-80f3-4fdb-8915-691b30bcbc1c.png)<br><br>
 
 ### Q6 - Approximate Q-Learningn<br>
 <br><br>

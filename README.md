@@ -38,8 +38,10 @@ The code is included in this repo.<br><br>
 <img src="https://user-images.githubusercontent.com/98131995/225829582-184692f1-2ce1-422d-a930-49906db63f93.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/98131995/225829709-b83261a6-0ae0-4c02-a771-dd00c212adaa.png" width=50% height=50%><br>
 
 
-### Q3 - Q-Learningg<br>
-<br><br>
+### Q3 - Q-Learning<br>
+![image](https://user-images.githubusercontent.com/98131995/225831054-75f893f9-0bd8-453d-bc90-3eae9b5f0a4c.png)<br>
+![image](https://user-images.githubusercontent.com/98131995/225831218-9c9bc99a-d761-4984-a83f-58fd18cf4543.png)<br>
+![image](https://user-images.githubusercontent.com/98131995/225831350-3035e5d2-bebc-404e-93ca-28e940d0f557.png)<br><br>
 
 ### Q4 - Epsilon Greedy<br>
 <br><br>

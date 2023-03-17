@@ -52,5 +52,6 @@ After 10 training sessions:<br>
 After 2000 training sessions:<br>
 ![image](https://user-images.githubusercontent.com/98131995/225833793-96c1a804-80f3-4fdb-8915-691b30bcbc1c.png)<br><br>
 
-### Q6 - Approximate Q-Learningn<br>
+### Q6 - Approximate Q-Learning<br>
+![image](https://user-images.githubusercontent.com/98131995/225834168-fc3cad95-78d5-4ba3-999f-b7cd45d17e3a.png)<br>
 <br><br>

@@ -32,7 +32,12 @@ The code is included in this repo.<br><br>
 <img src="https://user-images.githubusercontent.com/98131995/225823586-1c8830ba-c32c-46b3-8dc8-932b229c7008.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/98131995/225823878-678e17ab-ebd8-486c-9116-7525bae39a9c.png" width=50% height=50%><br><br>
 
 ### Q2 - Policies<br>
-<br><br>
+![image](https://user-images.githubusercontent.com/98131995/225827152-8412bec2-a79e-4cc7-b685-de2d4ba9a991.png)<br>
+![image](https://user-images.githubusercontent.com/98131995/225827190-ea10f601-f7fb-466c-928d-f94d7c57c8c4.png)<br>
+![image](https://user-images.githubusercontent.com/98131995/225827737-4fa8fd4d-5f5f-4db1-9f32-7cf6ea15cae3.png)<br>
+![image](https://user-images.githubusercontent.com/98131995/225828071-29f6fec3-4795-4f86-ba4f-9441f03c075e.png)<br><br>
+<img src="https://user-images.githubusercontent.com/98131995/225829582-184692f1-2ce1-422d-a930-49906db63f93.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/98131995/225829709-b83261a6-0ae0-4c02-a771-dd00c212adaa.png" width=50% height=50%><br>
+
 
 ### Q3 - Q-Learningg<br>
 <br><br>

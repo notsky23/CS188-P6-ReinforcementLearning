@@ -54,6 +54,7 @@ After 2000 training sessions:<br>
 
 ### Q6 - Approximate Q-Learning<br>
 ![image](https://user-images.githubusercontent.com/98131995/225834168-fc3cad95-78d5-4ba3-999f-b7cd45d17e3a.png)<br><br>
+![Approximate Q-Learning](https://user-images.githubusercontent.com/98131995/225861305-789c83dc-0668-4974-81bf-2072496591c6.gif)<br><br>
 <img src="https://user-images.githubusercontent.com/98131995/225857647-88cfde9d-d790-40c1-9cf6-89c619a0a635.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/98131995/225857867-f528aa0b-ca2f-4d51-a3cf-bcdd37de9346.png" width=50% height=50%><br>
 <img src="https://user-images.githubusercontent.com/98131995/225858011-93c22b52-2637-4e0a-9452-463d497e0487.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/98131995/225859558-b48f1093-fd35-4f9d-9fea-a4a498dadd21.png" width=50% height=50%><br><br>
 ![image](https://user-images.githubusercontent.com/98131995/225859892-6d5a91a1-313f-411e-95bd-3ed0aec0ee39.png)<br><br>

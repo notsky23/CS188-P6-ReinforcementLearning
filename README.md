@@ -62,13 +62,13 @@ The code is included in this repo.<br><br>
 ### Q4 - Epsilon Greedy<br>
 ![image](https://user-images.githubusercontent.com/98131995/225831658-98a4d8db-38a4-4e44-b2f6-32497a64a2b4.png)<br><br>
 
-Epsilon = 0.3<br>
+Epsilon = 0.3 (balanced)<br>
 <img src="https://user-images.githubusercontent.com/98131995/234271963-d79d1787-9333-49c1-a237-309220805888.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/98131995/234272183-ab5d0e32-1415-4272-9b86-d8eb513a10d1.png" width=50% height=50%><br><br>
 
-Epsilon = 0.1<br>
+Epsilon = 0.1 (exploitation)<br>
 <img src="https://user-images.githubusercontent.com/98131995/234273363-78f9a376-1b17-494e-aa98-264a45467898.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/98131995/234273463-146fc8e8-5ea4-4525-9a28-6d844396317d.png" width=50% height=50%><br><br>
 
-Epsilon = 0.9<br>
+Epsilon = 0.9 (exploration)<br>
 <img src="https://user-images.githubusercontent.com/98131995/234275479-c2b610c6-1869-4455-bfc3-9310599b920d.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/98131995/234275607-6a720da9-7418-4867-a7c0-ba6c4f0228d0.png" width=50% height=50%><br><br>
 
 ### Q5 - Q-Learning and Pacman<br>

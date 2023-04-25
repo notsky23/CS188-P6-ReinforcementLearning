@@ -75,13 +75,16 @@ Epsilon = 0.9 (exploration)<br>
 <img src="https://user-images.githubusercontent.com/98131995/234275479-c2b610c6-1869-4455-bfc3-9310599b920d.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/98131995/234275607-6a720da9-7418-4867-a7c0-ba6c4f0228d0.png" width=50% height=50%><br><br>
 
 ### Q5 - Q-Learning and Pacman<br>
+![image](https://user-images.githubusercontent.com/98131995/225834168-fc3cad95-78d5-4ba3-999f-b7cd45d17e3a.png)<br><br>
 After 10 training sessions:<br>
 ![image](https://user-images.githubusercontent.com/98131995/225833590-366f36d2-347e-44dd-a814-ed755c4eb36c.png)<br><br>
 After 2000 training sessions:<br>
 ![image](https://user-images.githubusercontent.com/98131995/225833793-96c1a804-80f3-4fdb-8915-691b30bcbc1c.png)<br><br>
 
 ### Q6 - Approximate Q-Learning<br>
-![image](https://user-images.githubusercontent.com/98131995/225834168-fc3cad95-78d5-4ba3-999f-b7cd45d17e3a.png)<br><br>
+![image](https://user-images.githubusercontent.com/98131995/234346928-f55c99e9-d453-472c-b5d4-5971c16a1a9e.png)<br>
+![image](https://user-images.githubusercontent.com/98131995/234347010-3cc4f1a1-61b7-45fa-a2ce-fbe299824a38.png)<br><br>
+
 ![Approximate Q-Learning](https://user-images.githubusercontent.com/98131995/225861305-789c83dc-0668-4974-81bf-2072496591c6.gif)<br><br>
 <img src="https://user-images.githubusercontent.com/98131995/225857647-88cfde9d-d790-40c1-9cf6-89c619a0a635.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/98131995/225857867-f528aa0b-ca2f-4d51-a3cf-bcdd37de9346.png" width=50% height=50%><br>
 <img src="https://user-images.githubusercontent.com/98131995/225858011-93c22b52-2637-4e0a-9452-463d497e0487.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/98131995/225859558-b48f1093-fd35-4f9d-9fea-a4a498dadd21.png" width=50% height=50%><br><br>

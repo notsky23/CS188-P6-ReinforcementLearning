@@ -58,6 +58,8 @@ The code is included in this repo.<br><br>
 ![image](https://user-images.githubusercontent.com/98131995/225831218-9c9bc99a-d761-4984-a83f-58fd18cf4543.png)<br>
 ![image](https://user-images.githubusercontent.com/98131995/225831350-3035e5d2-bebc-404e-93ca-28e940d0f557.png)<br><br>
 
+<img src="https://user-images.githubusercontent.com/98131995/234271963-d79d1787-9333-49c1-a237-309220805888.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/98131995/234272183-ab5d0e32-1415-4272-9b86-d8eb513a10d1.png" width=50% height=50%><br><br>
+
 ### Q4 - Epsilon Greedy<br>
 ![image](https://user-images.githubusercontent.com/98131995/225831658-98a4d8db-38a4-4e44-b2f6-32497a64a2b4.png)<br><br>
 

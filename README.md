@@ -59,7 +59,7 @@ The code is included in this repo.<br><br>
 ![image](https://user-images.githubusercontent.com/98131995/225831350-3035e5d2-bebc-404e-93ca-28e940d0f557.png)<br><br>
 
 Q-Learner under manual control<br>
-![manual q-learner](https://user-images.githubusercontent.com/98131995/234281879-5b49ac1a-bbac-4648-a77e-d2c387d1d301.gif)
+![manual q-learner](https://user-images.githubusercontent.com/98131995/234287237-b5827fc4-7dfb-448e-914a-9ea16bc015e0.gif)
 
 
 ### Q4 - Epsilon Greedy<br>

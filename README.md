@@ -33,12 +33,12 @@ The code is included in this repo.<br><br>
 <img src="https://user-images.githubusercontent.com/98131995/225823586-1c8830ba-c32c-46b3-8dc8-932b229c7008.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/98131995/225823878-678e17ab-ebd8-486c-9116-7525bae39a9c.png" width=50% height=50%><br><br>
 
 ### Q2 - Policies<br>
-![image](https://user-images.githubusercontent.com/98131995/234256017-93338254-6bbb-4ae0-9d2f-781e0ec1d7a5.png)<br>
-![image](https://user-images.githubusercontent.com/98131995/234256273-117899fe-fcbe-4fea-b1eb-6a6a06805fe7.png)![image](https://user-images.githubusercontent.com/98131995/234256460-6dd13725-f64c-475c-a9bd-3ffa25b8b43b.png)<br><br>
-
-
 ![image](https://user-images.githubusercontent.com/98131995/225827152-8412bec2-a79e-4cc7-b685-de2d4ba9a991.png)<br>
 ![image](https://user-images.githubusercontent.com/98131995/225827190-ea10f601-f7fb-466c-928d-f94d7c57c8c4.png)<br>
+![image](https://user-images.githubusercontent.com/98131995/234256017-93338254-6bbb-4ae0-9d2f-781e0ec1d7a5.png)<br>
+<img src="https://user-images.githubusercontent.com/98131995/234256273-117899fe-fcbe-4fea-b1eb-6a6a06805fe7.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/98131995/234256460-6dd13725-f64c-475c-a9bd-3ffa25b8b43b.png" width=50% height=50%><br><br>
+
+
 ![image](https://user-images.githubusercontent.com/98131995/225827737-4fa8fd4d-5f5f-4db1-9f32-7cf6ea15cae3.png)<br>
 <img src="https://user-images.githubusercontent.com/98131995/225829582-184692f1-2ce1-422d-a930-49906db63f93.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/98131995/225829709-b83261a6-0ae0-4c02-a771-dd00c212adaa.png" width=50% height=50%><br>
 

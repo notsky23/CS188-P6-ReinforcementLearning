@@ -65,6 +65,9 @@ The code is included in this repo.<br><br>
 Epsilon = 0.3<br>
 <img src="https://user-images.githubusercontent.com/98131995/234271963-d79d1787-9333-49c1-a237-309220805888.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/98131995/234272183-ab5d0e32-1415-4272-9b86-d8eb513a10d1.png" width=50% height=50%><br><br>
 
+Epsilon = 0.1<br>
+<img src="https://user-images.githubusercontent.com/98131995/234273363-78f9a376-1b17-494e-aa98-264a45467898.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/98131995/234273463-146fc8e8-5ea4-4525-9a28-6d844396317d.png" width=50% height=50%><br><br>
+
 ### Q5 - Q-Learning and Pacman<br>
 After 10 training sessions:<br>
 ![image](https://user-images.githubusercontent.com/98131995/225833590-366f36d2-347e-44dd-a814-ed755c4eb36c.png)<br><br>

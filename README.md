@@ -49,9 +49,8 @@ The code is included in this repo.<br><br>
 ![image](https://user-images.githubusercontent.com/98131995/234261727-4e7d3310-4ace-43ef-8f46-025ce2ae8471.png)<br>
 <img src="https://user-images.githubusercontent.com/98131995/234261961-f6429765-36f9-4a6f-9b0c-f4aa14757605.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/98131995/234262076-d67cbf91-fe18-4311-8331-47bc7fb011ba.png" width=50% height=50%><br><br>
 
-
-![image](https://user-images.githubusercontent.com/98131995/225827737-4fa8fd4d-5f5f-4db1-9f32-7cf6ea15cae3.png)<br>
-<img src="https://user-images.githubusercontent.com/98131995/225829582-184692f1-2ce1-422d-a930-49906db63f93.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/98131995/225829709-b83261a6-0ae0-4c02-a771-dd00c212adaa.png" width=50% height=50%><br>
+![image](https://user-images.githubusercontent.com/98131995/234262918-701b1f1c-d18f-4516-b516-11c156e43c06.png)<br>
+<img src="https://user-images.githubusercontent.com/98131995/234263175-90343a5d-a60f-49cb-9c0d-ae6c10df8a57.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/98131995/234263352-ae098280-9a52-44a4-a896-f16b444a278e.png" width=50% height=50%><br><br>
 
 
 ### Q3 - Q-Learning<br>

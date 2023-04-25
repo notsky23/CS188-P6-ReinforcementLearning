@@ -29,6 +29,7 @@ The code is included in this repo.<br><br>
 ### Q1 - Value Iteration<br>
 ![image](https://user-images.githubusercontent.com/98131995/234208460-3b935328-b928-4ae6-965b-236b3c5eab03.png)<br><br>
 <img src="https://user-images.githubusercontent.com/98131995/225823541-962e0a37-2eb1-4238-b90e-449f4ff059c3.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/98131995/225823063-b59e39e6-6d87-43bd-9411-614a8cef54f4.png" width=50% height=50%><br>
+![image](https://user-images.githubusercontent.com/98131995/234208819-6f0c3801-d1a5-4f1e-8375-f2d63b2b27e3.png)<br><br>
 <img src="https://user-images.githubusercontent.com/98131995/225823586-1c8830ba-c32c-46b3-8dc8-932b229c7008.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/98131995/225823878-678e17ab-ebd8-486c-9116-7525bae39a9c.png" width=50% height=50%><br><br>
 
 ### Q2 - Policies<br>

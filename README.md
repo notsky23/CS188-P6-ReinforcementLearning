@@ -10,7 +10,7 @@ This project is a practice with different techniques for reinforcement learning 
 
 In this project, we will create a PacMan AI agent that uses reinforcement learning algorithms and techniques, and train them for specific objectives (ex. winning the game/getting the highest score).<br>
 
-The agent will start out knowing nothing, but as we train and fine-tune (ex. adapting weights for rewards) the agent, it learns to get better at achieving the desired result.<br><br>
+The agent will start out knowing nothing, but as we train and fine-tune (ex. adapting weights for rewards or penalties) the agent, it learns to get better at achieving the desired result.<br><br>
 
 ## Results:<br>
 
